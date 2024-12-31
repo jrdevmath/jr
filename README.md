@@ -1,4 +1,4 @@
-# Jean Rodrigues 🚀
+# Carlos Rodrigues 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu_perfil/)](https://www.linkedin.com/in/seu_perfil/)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-black?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=seu_perfil)](https://scholar.google.com/citations?user=seu_perfil)
