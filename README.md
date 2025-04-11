@@ -70,8 +70,7 @@ Busco unir minha base sólida em matemática com aplicações práticas na engen
 ---
 
 ## 📫 Contato
-
-- **Email**: [adicione seu email]  
+  
 - **LinkedIn**: [https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/seu_perfil/)
 
 ---
