@@ -11,7 +11,7 @@
 
 Sou bacharel em Matemática e estudante de Engenharia Mecânica com forte interesse em **modelagem matemática**, **simulações computacionais** e **dinâmica dos fluidos**, especialmente voltada à área aeroespacial. Tenho mais de 18 anos de experiência em desenvolvimento de sistemas web, com atuação especializada em **e-commerce** e aplicações analíticas baseadas em matemática e física avançadas.
 
-Busco unir minha base sólida em matemática com aplicações práticas na engenharia e ciência, com o objetivo de contribuir para desafios complexos — especialmente aqueles relacionados à **propulsão aeroespacial**, **energia**, **robótica especializada** e **inteligência artificial aplicada**. Acredito que a compreensão profunda dos fluidos (terrestres e espaciais) pode ser chave para o avanço tecnológico significativo — talvez até rumo à superação da velocidade da luz.
+Busco unir minha base sólida em matemática com aplicações práticas na engenharia e ciência, com o objetivo de contribuir para desafios complexos. <!-- — especialmente aqueles relacionados à **propulsão aeroespacial**, **sistemas web** e **inteligência artificial aplicada**. Acredito que a compreensão profunda dos fluidos (terrestres e espaciais) pode ser chave para o avanço tecnológico significativo — talvez até rumo à superação da velocidade da luz.-->
 
 ---
 
