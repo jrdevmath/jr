@@ -1,4 +1,4 @@
-# Carlos Rodrigues 🚀
+# Jean Rodrigues 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu_perfil/)](https://www.linkedin.com/in/seu_perfil/)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-black?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=seu_perfil)](https://scholar.google.com/citations?user=seu_perfil)
@@ -13,12 +13,12 @@ Entusiasta em [Sua Área de Pesquisa] com paixão por [Seus Interesses de Pesqui
 
 - **Bacharel** em Matemática, Universidade Estácio de Sá, 2022
 - **Bacharel** em Engenharia Mecânica, Instituto Federal de Goias, andamento
-
+"""
 ## 📚 Publicações
 
 - **[Título da Publicação]**. *[Nome do Periódico/Conferência]*, [Ano]. [Link para o Artigo](#)
 - **[Outra Publicação]**. *[Outro Periódico/Conferência]*, [Ano]. [Link para o Artigo](#)
-
+"""
 ## 🚀 Projetos
 
 - **[Nome do Projeto]** - [Descrição Breve do Projeto]. [Link para o Repositório](#)
