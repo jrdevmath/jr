@@ -1,6 +1,6 @@
 # Jean Rodrigues 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu_perfil/)](https://www.linkedin.com/in/seu_perfil/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu_perfil/)](https://www.linkedin.com/in/cosbrar/)
 <!--[![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-black?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=seu_perfil)](https://scholar.google.com/citations?user=seu_perfil)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Seu_Perfil)](https://www.researchgate.net/profile/Seu_Perfil)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/seu_perfil)](https://twitter.com/seu_perfil)
